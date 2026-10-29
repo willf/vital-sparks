@@ -206,7 +206,7 @@ At his funeral, ministers of several different denominations provided remembranc
 
 [^free-servants]: Slavery was still legal in the English colonies at this point, but Stennett is talking here of “free” servants, who have voluntarily become servants of others as employees.
 
-[^sun-or-son]: God the _Sun_”, edited to “God the _Son_” in _The Sacred Harp_. Rippon’s _Selection_ has “God the Sun” in the online versions I checked. The _Southern Harmony_ and the 1911 James edition of _The Sacred Harp_ have “God the Son.”
+[^sun-or-son]: “God the _Sun_”, edited to “God the _Son_” in _The Sacred Harp_. Rippon’s _Selection_ has “God the Sun” in the online versions I checked. The _Southern Harmony_ and the 1911 James edition of _The Sacred Harp_ have “God the Son.”
 
 [^funeral-denominations]: Once again, just as happened with Isaac Watts. This was not an uncommon practice.
 
