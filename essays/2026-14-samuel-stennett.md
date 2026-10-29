@@ -11,9 +11,9 @@ id:
 
 ## Samuel Stennett
 
-There are five separate poems, used in nine different songs, by Samuel Stennett in the 2025 edition of _The Sacred Harp_ [^sacred-harp-songs]. Stennett (1727–1795) was a Baptist minister, from a line of Baptist ministers. His great-grandfather, Edward Stennett, led an illegally assembled house church in the reign of Charles II. His grandfather, Joseph, filled the position of pastor of a sabbatarian Baptist congregation when the previous pastor was jailed for sedition. Joseph was also a poet and friend of Nahum Tate’s [^joseph-stennett-source].
+There are five separate poems, used in nine different songs, by Samuel Stennett in the 2025 edition of _The Sacred Harp_ [^sacred-harp-songs]. Stennett (1727–1795) was a Baptist minister, from a line of Baptist ministers. His great-grandfather, Edward Stennett, led an illegally assembled house church in the reign of Charles II. His grandfather, Joseph, filled the position of pastor of a Sabbatarian Baptist congregation when the previous pastor was jailed for sedition. Joseph was also a poet and friend of Nahum Tate’s [^joseph-stennett-source].
 
-Samuel took over his father’s role as the pastor of Little Wild Street Baptist Church in London; he was simultaneously the pastor of the same sabbatarian Baptist Church[^pinners-hall]. He thus belonged to the second or third generation of hymn writers pioneered by his great-grandfather and by Isaac Watts in the Dissident tradition. By this time, it was no longer scandalous to be a non-conforming minister, and he was “associated with some of the best society of the metropolis[^hatfield-biography].” Like Watts, Stennett would have been welcomed into the Church of England, but held to his nonconformity. His works were eventually published in three volumes. These were mostly sermons and practical theology, but he also wrote a book-length defense of believer’s baptism. He was awarded an honorary Doctor of Divinity by King’s College and the University of Aberdeen.
+Samuel took over his father’s role as the pastor of Little Wild Street Baptist Church in London; he was simultaneously the pastor of the same Sabbatarian Baptist Church[^pinners-hall]. He thus belonged to the second or third generation of hymn writers pioneered by his great-grandfather and by Isaac Watts in the Dissident tradition. By this time, it was no longer scandalous to be a non-conforming minister, and he was “associated with some of the best society of the metropolis[^hatfield-biography].” Like Watts, Stennett would have been welcomed into the Church of England, but held to his nonconformity. His works were eventually published in three volumes. These were mostly sermons and practical theology, but he also wrote a book-length defense of believer’s baptism. He was awarded an honorary Doctor of Divinity by King’s College and the University of Aberdeen.
 
 Here is an example of his practical theology, from an essay on “Duties of servants to masters, is a commentary on Ephesians 6:5–8, which is very Lockean in spirit:
 
@@ -88,7 +88,7 @@ And instantly replies,
 To-day thy parting soul shall be  
 With me in Paradise.
 
-Hugh McGraw used one verse of Stennett’s as the chorus to his 527 MY LIFE AND BREATH:
+Hugh McGraw used one verse of Stennett’s as the chorus to 527 MY LIFE AND BREATH:
 
 To Him I owe my life and breath  
 And all the joys I have;  
@@ -169,7 +169,7 @@ The children of my love !
 Receive the sceptres, crowns, and thrones,  
 Prepar'd for you above.
 
-Finally, Raymond Hamrick used the first and last verses of Stennett’s “The pleasures of social worship” for his 540 NIDRAH. I think the title, and the complete poem, helps us understand Stennett’s intention.
+Finally, Raymond Hamrick used the first and last verses of Stennett’s “The pleasures of social worship” for 540 NIDRAH. I think the title, and the complete poem, helps us understand Stennett’s intention.
 
 How charming is the place,  
 Where my Redeemer God  
