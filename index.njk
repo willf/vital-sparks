@@ -1,0 +1,12 @@
+---
+layout: base.njk
+title: Vital Sparks
+---
+<h1>Vital Sparks</h1>
+<p>Essays about the poetry, history, and people behind the songs in <em>The Sacred Harp</em>.</p>
+<ul class="essays">
+{%- for essay in collections.essays %}
+  <li><a href="{{ essay.url | url }}">{{ essay.data.title }}</a>
+  {%- if essay.data.subtitle %}<br><span class="sub">{{ essay.data.subtitle }}</span>{% endif %}</li>
+{%- endfor %}
+</ul>

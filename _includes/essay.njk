@@ -1,0 +1,7 @@
+---
+layout: base.njk
+---
+<article>
+  {{ content | safe }}
+  {% if source_url %}<p><a href="{{ source_url }}">Originally published on Beehiiv</a></p>{% endif %}
+</article>
