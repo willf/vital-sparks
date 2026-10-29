@@ -2,7 +2,7 @@
 
 Essays about the poetry, history, and people behind the songs in _The Sacred Harp_. This repository holds Markdown copies of published _Vital Sparks_ essays alongside drafts and editorial guidance.
 
-Read the newsletter at [Vital Sparks](https://vitalsparks.beehiiv.com/).
+Read the newsletter at [Beehiiv](https://vitalsparks.beehiiv.com/) or statically at [GitHub Pages](https://willf.github.io/vital-sparks/).
 
 ## Repository contents
 
