@@ -13,7 +13,7 @@ Semantic Drift in The Sacred Harp, part 2
 
 In part one of this series, we looked at how the meanings of the words *pitiful*, *awful*, *bowels*, and *conversation* have drifted over the centuries, resulting in possible misunderstandings or even humor. In this article, we will look at a few more examples.
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/ef439a55-9c5e-4e9c-ae82-5ade5e21cee1/paddle-to-the-sea.png?t=1761102640)
+![]({{ '/media/ef439a55-9c5e-4e9c-ae82-5ade5e21cee1.png' | url }})
 
 *Paddle-to-the-Sea* is still drifting
 

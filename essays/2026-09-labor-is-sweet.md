@@ -11,7 +11,7 @@ id: "8a722405-53d7-494d-8232-0879d45b3d85"
 
 US Labor Day, 2026
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/95e98b02-e0d8-496e-8f97-7f42ef35c238/image.png?t=1788804817)
+![]({{ '/media/95e98b02-e0d8-496e-8f97-7f42ef35c238.png' | url }})
 
 [The Harvesters, Pieter Bruegel the Elder](https://en.wikipedia.org/wiki/The_Harvesters_%28painting%29)
 

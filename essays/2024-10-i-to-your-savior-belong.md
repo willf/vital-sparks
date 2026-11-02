@@ -11,7 +11,7 @@ id: "94d6cc43-7af8-4666-bb50-77c2cd1a852e"
 
 384 PANTING FOR HEAVEN
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/d1b89a05-be26-4999-b839-96f87e8588de/The_Glory_of_Saints.jpg?t=1727805239)
+![]({{ '/media/d1b89a05-be26-4999-b839-96f87e8588de.jpg' | url }})
 
 [The Glory of Saints by Corrado Giaquinto, ©Museo Nacional del Prado, Used by Permission](https://www.museodelprado.es/en/the-collection/art-work/the-glory-of-saints/522ac2bb-22ac-4f25-8903-b96ae539da80)
 

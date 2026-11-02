@@ -11,13 +11,13 @@ id: "d33aaa35-7b6e-4119-8452-8e269d4921ee"
 
 William Billings's An Anthem, for Thanksgiving
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/b003f3d1-bacc-48e8-92f1-16c2536a0ec7/an-anthem-for-thanksgiving.png?t=1732760587)
+![]({{ '/media/b003f3d1-bacc-48e8-92f1-16c2536a0ec7.png' | url }})
 
 An Anthem, for Thanksgiving. The first song in Billings’s Continental Harmony
 
 I am writing this on the eve of the day Americans celebrate a day of Thanksgiving, and it puts me in mind of William Billings’s delightful *An Anthem, for Thanksgiving*. This doesn’t appear in any version of *The Sacred Harp*, but Billings is certainly well-represented. Billings published this in his tunebook *The Continental Harmony*, first published in 1794. Of course, this also predates the invention of the shapenote system used by *Sacred Harp* singers. Paul Hillier and His Majestie's Clerkes have an excellent performance on their album *Early American Choral Music Vol. 1*.
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/static_assets/youtube_play_icon.png)
+![]({{ '/media/youtube_play_icon.png' | url }})
 
 [![YouTube video by Paul Hillier - Topic](https://i.ytimg.com/vi/aH-nfTI2q4c/maxresdefault.jpg)](https://www.youtube.com/watch?v=aH-nfTI2q4c)
 

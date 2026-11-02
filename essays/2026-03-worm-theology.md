@@ -11,7 +11,7 @@ id: "a7cec918-eaaf-406f-b971-81e2e2bced92"
 
 A Lenten meditation on human vermicularity
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/028aa231-c7a9-41de-a065-1a317b5774ac/image.png?t=1771375148)
+![]({{ '/media/028aa231-c7a9-41de-a065-1a317b5774ac.png' | url }})
 
 [A timorous worm](https://www.needpix.com/photo/download/1195953/worm-earthworm-wriggly-free-pictures-free-photos-free-images-royalty-free-free-illustrations)
 

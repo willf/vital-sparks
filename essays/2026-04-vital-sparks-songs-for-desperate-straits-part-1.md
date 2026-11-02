@@ -11,7 +11,7 @@ id: "1045602b-df1c-4700-8129-a5d87a419908"
 
 Waiting for a cure
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/bb800c1f-6bd7-410b-8cfd-e271535fa0c0/image.png?t=1772322314)
+![]({{ '/media/bb800c1f-6bd7-410b-8cfd-e271535fa0c0.png' | url }})
 
 [Robert Bateman, The Pool of Bethesda](https://www.wikidata.org/wiki/Q23758352)
 

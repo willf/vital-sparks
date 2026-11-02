@@ -11,7 +11,7 @@ id: "a791fc92-7f44-4609-9733-9772c2dca42b"
 
 Anne Steele, Part 2
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/d997657c-2ecb-4993-ae27-5e8ffe63ceb0/00146_01-1-Anne-Steels-Tomb-St-Marys-Churchyard-788x581.jpg?t=1774990618)
+![]({{ '/media/d997657c-2ecb-4993-ae27-5e8ffe63ceb0.jpg' | url }})
 
 “Ineffable” is one of those two-dollar words I learned as an undergraduate, probably in some philosophy class I had no right to be in. (A two-dollar word in 1974 is worth $13.40 these days.) If something is *ineffable*, it means it cannot be expressed adequately. I quoted Cynthia Y. Aaalders in my previous essay on Anne Steele:
 

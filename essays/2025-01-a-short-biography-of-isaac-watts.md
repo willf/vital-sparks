@@ -11,7 +11,7 @@ id: "37812f1e-9931-4b59-a4e3-abf98f5c7989"
 
 Essay #2 in a series on Isaac Watts
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/67d23a52-190e-481a-ae5b-af43002f9f78/National_Portrait_Gallery_Isaac_Watts_AOhM7__HD.jpg?t=1744393562)
+![]({{ '/media/67d23a52-190e-481a-ae5b-af43002f9f78.jpg' | url }})
 
 Isaac Watts, Courtesy of the British National Portrait Gallery. Colorized.
 

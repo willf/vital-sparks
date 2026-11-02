@@ -11,7 +11,7 @@ id: "dcf4427a-1163-4993-a760-e7a640db1554"
 
 Content warning: discussion of suicide
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/54a854b7-b37e-496b-8407-bd4df35915a4/1280px-Albrecht_Du%CC%88rer_-_Melencolia_I_-_Google_Art_Project___AGDdr3EHmNGyA_.jpg?t=1755118112)
+![]({{ '/media/54a854b7-b37e-496b-8407-bd4df35915a4.jpg' | url }})
 
 Melancholia I, by Albrecht Dürer, courtesy of Wikipedia
 

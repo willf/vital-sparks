@@ -15,7 +15,7 @@ Singing from *The Sacred Harp* is somewhat countercultural. We sing these old so
 
 Steele was a birthright Particular Baptist; her father was the lay pastor of the local Baptist chapel; so was her uncle. She made a confession of faith at age 14. She was born in Broughton, Hampshire, England (1717); lived a single life with her family in Broughton; and died and was buried in Broughton (1778).
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/aac5134e-a684-41ac-8d01-3465c25a6de4/image.png?t=1774990227)
+![]({{ '/media/aac5134e-a684-41ac-8d01-3465c25a6de4.png' | url }})
 
 Anne Steele’s tomb, courtesy of Broughton Community Archive, Reference Number [00146.01](https://www.broughtonhistory.org.uk/catalogue_item/churchyard-anne-steeles-tomb), ([CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/)).
 

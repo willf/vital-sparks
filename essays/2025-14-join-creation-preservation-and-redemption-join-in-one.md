@@ -13,7 +13,7 @@ An Anthem for Thanksgiving, by William Billings
 
 Happy (American) Thanksgiving
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/static_assets/youtube_play_icon.png)
+![]({{ '/media/youtube_play_icon.png' | url }})
 
 [![YouTube video by Harmonium Choral Society](https://i.ytimg.com/vi/7wQFXtFONhY/maxresdefault.jpg)](https://youtu.be/7wQFXtFONhY)
 

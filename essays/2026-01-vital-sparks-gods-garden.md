@@ -13,7 +13,7 @@ id: "a1511abc-d2bb-4fdf-b860-2f1ec01b99ec"
 
 I want to write about 335 RETURN AGAIN:
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/ac905886-74a3-41d5-90f9-10ab0d2e6d9f/garden.jpg?t=1768526204)
+![]({{ '/media/ac905886-74a3-41d5-90f9-10ab0d2e6d9f.jpg' | url }})
 
 Rudbeckia from Bess’s garden
 

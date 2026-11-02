@@ -11,7 +11,7 @@ id: "371ab666-d77a-4fe1-9239-16a0decedc35"
 
 370 MONROE
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/e30414d8-510c-4196-8cf8-7b314884e5a5/CleanShot_2024-07-16_at_21.26.59_2x.png?t=1721179646)
+![]({{ '/media/e30414d8-510c-4196-8cf8-7b314884e5a5.png' | url }})
 
 Perish every fond ambtion
 
@@ -77,6 +77,6 @@ The [chapter on the optative](http://wals.info/chapter/73) by Nina Dobrushina, J
 
 The earlist printing of “Jesus, I my cross have taken” does retain a comma after “Perish”.
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/7d9da108-ddbe-40e1-8b60-39a49e0b158f/CleanShot_2024-07-16_at_21.22.09_2x.png?t=1721179374)
+![]({{ '/media/7d9da108-ddbe-40e1-8b60-39a49e0b158f.png' | url }})
 
 [From [Poems, Chiefly Religious](https://static1.squarespace.com/static/5b11858da2772cf01402ee6e/t/5b4fe09f2b6a2853e2bdb83d/1531961530659/Lyte-Poems-1833.pdf) by Henry Francis Lyte, 1833.](https://static1.squarespace.com/static/5b11858da2772cf01402ee6e/t/5b4fe09f2b6a2853e2bdb83d/1531961530659/Lyte-Poems-1833.pdf)

@@ -11,7 +11,7 @@ id: "e5846ce9-df41-42b8-b40c-54fe74ed71b2"
 
 A correction, and Barry Johnson provides a 4-shape version
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/37630d9b-8a34-4f83-a09c-b43b20230e4b/0246CAFA-94B7-43C1-BA79-742BC437E37E_1_105_c.jpeg?t=1734531936)
+![]({{ '/media/37630d9b-8a34-4f83-a09c-b43b20230e4b.jpeg' | url }})
 
 A tiny dragon (photo credit: Will Fitzgerald)
 

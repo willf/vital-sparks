@@ -11,7 +11,7 @@ id: "e081bcc9-096e-40fc-9a6d-e436db46c0dc"
 
 273 MILFORD
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/60a9a791-5f11-450d-811d-475861a18389/image.png?t=1724808162)
+![]({{ '/media/60a9a791-5f11-450d-811d-475861a18389.png' | url }})
 
 Easter Greetings
 

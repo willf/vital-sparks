@@ -11,7 +11,7 @@ id: "d5a4dd9f-cc04-440f-afab-3b176251eb71"
 
 Secular songs in The Cooper Book, 2012
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/f141651f-84c6-491b-982b-0fae0b52cfb3/image.png?t=1791992540)
+![]({{ '/media/f141651f-84c6-491b-982b-0fae0b52cfb3.png' | url }})
 
 Texas Wendish Heritage Museum, photo by the author
 

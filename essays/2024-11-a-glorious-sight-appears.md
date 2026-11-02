@@ -11,7 +11,7 @@ id: "6c6c5feb-5dd8-4c0a-9a10-c6987fc69fdf"
 
 155 NORTHFIELD, 299 NEW JERUSALEM, and 409 PROMISED DAY
 
-[![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/cec37cb9-ebb9-4b74-a651-3c8368c25c90/image.png?t=1729629364)](https://rusmuseumvrm.ru/data/collections/painting/19_20/zhb_1489/index.php?lang=en)
+[![]({{ '/media/cec37cb9-ebb9-4b74-a651-3c8368c25c90.png' | url }})](https://rusmuseumvrm.ru/data/collections/painting/19_20/zhb_1489/index.php?lang=en)
 
 Churches. New Jerusalem, by Aristarkh Lentulov, 1917
 

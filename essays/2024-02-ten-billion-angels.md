@@ -13,7 +13,7 @@ id: "29108d38-3058-4dd2-a7d4-623b4c87aa5e"
 
 There are songs that make me weep for joy.
 
-![There are songs that make me weep for joy.](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/4b7a2751-fc90-4900-a11d-ed1bb6a1b467/8B6DACE0-D139-4C9B-B57C-2031C94AA275_1_105_c.jpeg?t=1718658954)
+![There are songs that make me weep for joy.]({{ '/media/4b7a2751-fc90-4900-a11d-ed1bb6a1b467.jpeg' | url }})
 
 Angels Gate Park, California
 

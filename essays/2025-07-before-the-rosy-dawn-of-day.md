@@ -13,7 +13,7 @@ Elizabeth (Singer) Rowe
 
 In my studies of Isaac Watts, I came across the poet Elizabeth Rowe, née Singer. The story that Watts proposed to her, but was turned down. She did marry Thomas Rowe when she was 36 and he was 23; but Thomas dies of “consumption” just five years into the marriage. In any case, Watts and Rowe were great admirers of each other’s poetry and Christian piety. In her will, she asked Watts to publish a book of meditations by her (“Devout Exercises of the Heart in Meditation and Soliloquy, Prayer, and Praise”).
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/61c5585b-bb86-47a9-97d8-c4f67f733468/rowe-portrait.jpg?t=1752521280)
+![]({{ '/media/61c5585b-bb86-47a9-97d8-c4f67f733468.jpg' | url }})
 
 [Elizabeth (Singer) Rowe.  
 From an edition of her collected works, published in 1808 by W. Suttaby.](https://www.abebooks.com/first-edition/Poetical-Works-Mrs-Elizh-Rowe-including/31389676216/bd#&gid=1&pid=3)

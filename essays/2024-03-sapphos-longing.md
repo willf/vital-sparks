@@ -17,7 +17,7 @@ On Facebook, Fynn Titford-Mock and Connie Des Maries were curious about the ment
 >
 > Alexander Pope
 
-![Response to Richard Steelee](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/10f7040b-07bd-4c9d-a8be-f13f0fd1f43c/image.png?t=1718638345)
+![Response to Richard Steelee]({{ '/media/10f7040b-07bd-4c9d-a8be-f13f0fd1f43c.png' | url }})
 
 Response to Richard Steele
 
@@ -29,7 +29,7 @@ Titford-Mock notes that not much of Sappho was available to Pope when he wrote h
 
 Even in this prose translation, we can see some similar similar language to Pope’s poem.
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/06cbd222-4777-4da9-9db4-93b924c4efaf/image.png?t=1718751503)
+![]({{ '/media/06cbd222-4777-4da9-9db4-93b924c4efaf.png' | url }})
 
 Perhaps a portait of Sappho from a Pompeii fresco, Courtesy Wikimedia Commons
 

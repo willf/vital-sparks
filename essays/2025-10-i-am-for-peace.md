@@ -11,7 +11,7 @@ id: "cb4c605f-56c6-4098-819d-e15f8b2de01b"
 
 357 KEDAR
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/a7566a5c-2ad6-4529-bcf5-9cc121a1b5ea/tents.jpg?t=1758142278)
+![]({{ '/media/a7566a5c-2ad6-4529-bcf5-9cc121a1b5ea.jpg' | url }})
 
 Tents of Kedar. Image probably from the 1836 Topical Encyclopedia of the BIble
 
