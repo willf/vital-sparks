@@ -217,6 +217,6 @@ At Stennet’s funeral, ministers of several denominations provided remembrances
 
 [^6]: “God the _Sun_,” edited to “God the _Son_” in _The Sacred Harp_. Rippon’s _Selection_ has “God the Sun” in the online versions I checked. The _Southern Harmony_ and the 1911 James edition of _The Sacred Harp_ have “God the Son.”
 
-[^7]: The same was true at Isaac Watts’s funeral. This was not an uncommon practice.
+[^7]: The same was true at Isaac Watts’s funeral. This was not an uncommon practice. Stennett is buried in the same cemetery as Watts, Bunhill Fields Burial Ground, in Greater London.
 
 [^8]: Dan Taylor, “A good minister of Jesus Christ.” https://archive.org/details/bim_eighteenth-century_a-good-minister-of-jesus_taylor-dan_1795, accessed October, 2026.
