@@ -2,7 +2,7 @@
 title: "On Jordan’s stormy banks I stand"
 subtitle: "Samuel Stennett"
 created_at: "2006-10-28"
-status: "draft"
+status: "confirmed"
 source_url:
 id:
 ---
@@ -10,6 +10,10 @@ id:
 # On Jordan’s stormy banks I stand
 
 ## Samuel Stennett
+
+![Portrait of Samuel Stennett.]({{ '/media/stennett-colorized.png' | url }})
+
+_Portrait of Samuel Stennett, colorized from [his obituary](https://archive.org/details/baptistannualreg00ripp/page/n394/mode/1up)_.
 
 There are five separate poems by Samuel Stennett, used in nine different songs, in the 2025 edition of _The Sacred Harp_.[^1] Stennett (1727–1795) was a Baptist minister from a line of Baptist ministers. His great-grandfather, Edward Stennett, led an illegally assembled house church in the reign of Charles II. His grandfather, Joseph, filled the position of pastor of a sabbatarian Baptist congregation when the previous pastor was jailed for sedition. Joseph was also a poet and a friend of Nahum Tate’s.[^2]
 
