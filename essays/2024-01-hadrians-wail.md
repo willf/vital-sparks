@@ -21,7 +21,7 @@ Alexander Pope was one of the most renown poets of 18th century England. He like
 >
 > Richard Steele
 
-![Letter from Richard Steele to Popee](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/17f242b0-e944-44e2-b394-2cd8ccb9897e/image.png?t=1718638263)
+![Letter from Richard Steele to Popee]({{ '/media/17f242b0-e944-44e2-b394-2cd8ccb9897e.png' | url }})
 
 Letter from Richard Steele to Alexander Pope
 
@@ -59,7 +59,7 @@ Pope answered Steele’s letter almost immediately. He wrote:
 >
 > Alexander Pope
 
-![Response to Richard Steelee](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/10f7040b-07bd-4c9d-a8be-f13f0fd1f43c/image.png?t=1718638345)
+![Response to Richard Steelee]({{ '/media/10f7040b-07bd-4c9d-a8be-f13f0fd1f43c.png' | url }})
 
 Response to Richard Steele
 

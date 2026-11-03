@@ -11,7 +11,7 @@ id: "5d5e7bbc-cf92-4544-9a4b-db5cbf13c8fc"
 
 235 LONG SOUGHT HOME
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/471148d9-890f-4286-86b6-e9881df81e63/CleanShot_2024-07-27_at_14.55.04.png?t=1722106518)
+![]({{ '/media/471148d9-890f-4286-86b6-e9881df81e63.png' | url }})
 
 Divi Avrelii Avgvstini Hipponensis Episcopi,1619
 
@@ -73,11 +73,11 @@ Than when we first begun.
 
 I think the chorus (“Home, sweet home, my long sought home, My home in heaven above”) is added when this text is paired with a tune by William Bobo and put in *The Southern Harmony and Musical Companion* — again, with ten verses (but a new verse, perhaps, and not the “When we’ve been there…” verse).
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/cbe862f1-0d57-4032-989b-a39b64a6b76a/image.png?t=1722106868)
+![]({{ '/media/cbe862f1-0d57-4032-989b-a39b64a6b76a.png' | url }})
 
 I *think* this enters *The Sacred Harp* in the 1936 edition, with the verses we still have today. It’s attributed to “Francis Baker Priest, about 1750,” which a guess about what “F.B.P.” stood for (that is, Francis Baker, (a) Priest). But that’s disputed by hymnologists, and F.B.P. goes back to the 16th century, in any case.
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/547d6b0e-b0b2-4d9a-b45a-d79e5c6fb006/CleanShot_2024-07-27_at_15.01.34.png?t=1722106910)
+![]({{ '/media/547d6b0e-b0b2-4d9a-b45a-d79e5c6fb006.png' | url }})
 
 As I said, almost all of this comes from the Hymnology Archive article, [Mater Hierusalem, civitas sancta Dei](https://www.hymnologyarchive.com/jerusalem-my-happy-home), which also provides a [side-by-side comparison](https://static1.squarespace.com/static/5b11858da2772cf01402ee6e/t/5b201233352f537875ac187e/1529684012958/Fecamp-MaterHierusalem-HymnologyArchive.pdf) of the early versions.
 

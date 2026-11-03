@@ -11,7 +11,7 @@ id: "f49d1aa0-2199-48c2-99f6-62d8a957dcea"
 
 An essay for Black History month
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/f0b52b48-a566-4bbd-a529-31a580ccd5b7/CleanShot_2026-02-02_at_23.04.46_2x.png?t=1770091525)
+![]({{ '/media/f0b52b48-a566-4bbd-a529-31a580ccd5b7.png' | url }})
 
 Judge Jackson
 

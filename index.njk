@@ -4,9 +4,16 @@ title: Vital Sparks
 ---
 <h1>Vital Sparks</h1>
 <p>Essays about the poetry, history, and people behind the songs in <em>The Sacred Harp</em>.</p>
-<ul class="essays">
+<p><a href="https://vitalsparks.beehiiv.com/">Subscribe to the newsletter on Beehiiv</a></p>
+{%- set currentVolume = "" %}
 {%- for essay in collections.essays %}
-  <li><a href="{{ essay.url | url }}">{{ essay.data.title }}</a>
+{%- if essay.data.volume != currentVolume %}
+{%- if currentVolume != "" %}</ul>{% endif %}
+{%- set currentVolume = essay.data.volume %}
+<h2>Volume {{ currentVolume }}</h2>
+<ul class="essays">
+{%- endif %}
+  <li><span class="sub">Issue {{ essay.data.issue }}</span> &middot; <a href="{{ essay.url | url }}">{{ essay.data.title }}</a>
   {%- if essay.data.subtitle %}<br><span class="sub">{{ essay.data.subtitle }}</span>{% endif %}</li>
 {%- endfor %}
 </ul>

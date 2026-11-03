@@ -13,7 +13,7 @@ id: "92af1d48-8596-4ab0-90d1-59fb79f8d171"
 
 What happened was this: I was planning to write a Vital Sparks column on the camp meeting songs in the 2025 edition of *The Sacred Harp*, when A.J. Higgins, who recently graduated with a music composition degree from Cedarville University, announced he’d written a research paper which covered similar ground. Now, never in my life have I interviewed anyone, but I thought I would interview A.J. He was game, and so this is an edited transcript of our conversation. His article is entitled “[I’m Bound to Die in the Army: The Interplay of Language and Culture in Antebellum Hymnody](https://cedarville.tind.io/record/56133?ln=en&v=pdf).”
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/d23c1312-de97-47c7-9369-76b6886c69ad/higgins3.jpg?t=1790197686)
+![]({{ '/media/d23c1312-de97-47c7-9369-76b6886c69ad.jpg' | url }})
 
 [A.J. Higgins](https://antoniojhiggins.com)
 

@@ -1,4 +1,5 @@
 export default function (eleventyConfig) {
+  eleventyConfig.addPassthroughCopy("media");
   eleventyConfig.ignores.add("README.md");
   eleventyConfig.ignores.add("editing.md");
   eleventyConfig.ignores.add("style-guide.md");

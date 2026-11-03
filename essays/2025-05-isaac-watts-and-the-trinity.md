@@ -16,7 +16,7 @@ How the wondrous doctrine of the blessed Trinity shines, through the whole of ou
 
 (Note: I am writing this in early June, 2025. Trinity Sunday will be celebrated on June 15, and this is my annual sermon or essay on the Trinity. Also, I will be teaching a class at Camp Fasola on Watts. Camp will be held June 30 – July 4. I hope you can join me! As always, I look forward to comments and corrections.)
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/b9f9cf03-aee3-4864-809d-2c6e49df01b0/Hymn_29_on_the_trinity_clean.png?t=1749413379)
+![]({{ '/media/b9f9cf03-aee3-4864-809d-2c6e49df01b0.png' | url }})
 
 [Hymn 29 from Watts’s Hymns and Spiritual Songs](https://archive.org/details/bim_eighteenth-century_hymns-and-spiritual-song_watts-isaac_1709/page/n333/mode/2up?view=theater)
 

@@ -11,7 +11,7 @@ id: "5a3e87ba-6a3e-4ba1-a012-3a88293047a4"
 
 Secular Songs in The Sacred Harp: Part 2
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/f8cc9541-73e4-4d5e-b34b-768b9f772aa6/Saint_Jerome_Writing-Caravaggio__1605-6_.jpg?t=1766071803)
+![]({{ '/media/f8cc9541-73e4-4d5e-b34b-768b9f772aa6.jpg' | url }})
 
 [Saint Jerome Writing, by [Caravaggio](https://en.wikipedia.org/wiki/Caravaggio)](https://en.wikipedia.org/wiki/Saint_Jerome_Writing#/media/File:Saint_Jerome_Writing-Caravaggio_%281605-6%29.jpg)
 

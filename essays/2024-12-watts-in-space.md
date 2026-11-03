@@ -11,7 +11,7 @@ id: "ea718d6b-64e0-482a-8e3e-e8b6f7431225"
 
 The communion hymns of Isaac Watts
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/819b99ea-5e22-4d37-8bc2-b3e59cfa7b58/image.png?t=1731994211)
+![]({{ '/media/819b99ea-5e22-4d37-8bc2-b3e59cfa7b58.png' | url }})
 
 The Voyager Golden Record: The Sounds of Earth
 

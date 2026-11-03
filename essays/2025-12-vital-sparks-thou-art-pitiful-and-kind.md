@@ -11,7 +11,7 @@ id: "0d4a6af5-6924-4ae0-87eb-15bed2b6fed3"
 
 Semantic Drift in The Sacred Harp, part 1
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/2a7a26cb-47f4-4819-b271-ec3191b20e38/paddle-to-the-sea.png?t=1761102054)
+![]({{ '/media/2a7a26cb-47f4-4819-b271-ec3191b20e38.png' | url }})
 
 [Paddle-to-the-sea](https://openlibrary.org/works/OL4528062W/Paddle-to-the-Sea)
 

@@ -11,7 +11,7 @@ id: "ebcc0aa9-15d5-4dba-954c-948add922ef2"
 
 354t LEBANON
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/301da591-053e-490f-85f3-10d1589c7372/image.png?t=1723653372)
+![]({{ '/media/301da591-053e-490f-85f3-10d1589c7372.png' | url }})
 
 An undated handout painting shows people saving a girl after the Great Earthquake of Lisbon. .Via Reuters
 
@@ -71,6 +71,6 @@ She asks God to see the national fast as the God’s people in mourning for thes
 
 It is not particularly the place of this series to comment on what the poetry in The Sacred Harp can teach us or how it can change us. But perhaps the next time your sing LEBANON, you can remember the past tragedy of Lisbon, and the current tragedies in Gaza, in Ukraine, in South Sudan, and many other places of disaster, effected by human or natural causes, and ask what our response should be.
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/808d9391-c35e-4cc8-956c-0164279a63f7/CleanShot_2024-08-14_at_12.38.29_2x.png?t=1723653537)
+![]({{ '/media/808d9391-c35e-4cc8-956c-0164279a63f7.png' | url }})
 
 From The works of Mrs. Anne Steele, 1808. Via Internet Archive

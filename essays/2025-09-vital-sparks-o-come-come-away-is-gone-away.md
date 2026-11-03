@@ -11,7 +11,7 @@ id: "35e566d2-224d-4940-9d90-33db6ea73079"
 
 Saying goodbye to a surprisingly versatile tune
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/5511e45b-4a55-4e67-b544-48d657f19bcb/image.png?t=1757211257)
+![]({{ '/media/5511e45b-4a55-4e67-b544-48d657f19bcb.png' | url }})
 
 [Temperance Hall, Kirkby Stephen](https://commons.wikimedia.org/wiki/File:Temperance_Hall,_Kirkby_Stephen_-_geograph.org.uk_-_1334701.jpg)
 

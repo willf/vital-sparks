@@ -17,7 +17,7 @@ id: "3328e07d-25d2-433d-9d90-34cbf65618e4"
 
 But it is with the text we will be more concerned today. The poetry is attributed to John Kent, originally appearing in his *Original Gospel Hymns* in 1803. Kent was strongly influenced by the teachings of John Calvin and his successors. His hymns have been most popular by similarly minded people in the United States, particularly Primitive Baptists. There are 51 of his poems in the current edition of Gadby’s *Selection*, used largely by some Calvinist Baptist groups, but his poetry isn’t used much in the hymn books of other Christian strains. Kent worked full-time as a shipbuilder in the dockyards of Devonport, in the South West of England, near Plymouth. We’ll notice a lot of water imagery in the text. In the introduction to the ninth edition, a man named Thomas Hardy (not the famous author) wrote: "The work bears marks of a gifted, but unlettered mind," which is not the strongest praise one could give for someone's poetry. And the text we have is confusing for a number of reasons, which I will get into.
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/579323a7-5d37-448e-945f-26076117564c/CleanShot_2023-06-17_at_17.02.54_2.png?t=1718924560)
+![]({{ '/media/579323a7-5d37-448e-945f-26076117564c.png' | url }})
 
 John Kent, author of the text to Sacred Throne
 
@@ -79,7 +79,7 @@ Or sins more vile than they.
 
 In verse 1, editions of Kent's poem as printed in his *Original Gospel Hymns* have either "were" or "where" in the second line. Most printings of the poem have "were," and so I use it here.
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/dd8f0aed-7733-4227-a61d-a0150c7932d2/CleanShot_2024-05-18_at_16.13.54_2x.png?t=1718924646)
+![]({{ '/media/dd8f0aed-7733-4227-a61d-a0150c7932d2.png' | url }})
 
 Text of Sacred Throne, from Kent’s 1826 version
 
@@ -139,8 +139,8 @@ Many thanks to Robert Vaughn, Thomas Malone, Chris Brown, Tarik Wareh, Zena Tuck
 
 The 1966 edition of *The Sacred Harp* had interesting strikeovers that made it unclear whether salvation was being wafted down to “me,” “man,” or “men.” I think this why “man” got used in the 1991 edition.
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/8eb863bf-6d64-4c47-b194-159f4d24a136/image.png?t=1718924402)
+![]({{ '/media/8eb863bf-6d64-4c47-b194-159f4d24a136.png' | url }})
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/3b27278d-f065-4abe-9170-4986ff1e3f20/image.png?t=1718924945)
+![]({{ '/media/3b27278d-f065-4abe-9170-4986ff1e3f20.png' | url }})
 
 Image of the 7th edition

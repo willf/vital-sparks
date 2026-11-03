@@ -7,6 +7,7 @@ Read the newsletter at [Beehiiv](https://vitalsparks.beehiiv.com/) or statically
 ## Repository contents
 
 - [essays/](essays/) — published essays and drafts, organized by year and sequence number.
+- [media/](media/) — local copies of images used in essays.
 - [style-guide.md](style-guide.md) — conventions for tune names, page numbers, lyrics, tunebook editions, and general style.
 - [editing.md](editing.md) — the author and editor review process.
 
@@ -15,6 +16,8 @@ Read the newsletter at [Beehiiv](https://vitalsparks.beehiiv.com/) or statically
 Essays use filenames of the form `YYYY-NN-descriptive-title.md`, where `NN` is the essay’s sequence within the year, not a month. Use the next consecutive number when adding an essay.
 
 Each essay begins with YAML front matter containing its title, subtitle, creation date, status, source URL, and ID. Published copies include their original newsletter URL; drafts may leave the source URL and ID empty. The essay body follows in Markdown, with links, images, and footnotes as needed.
+
+Beehiiv-hosted essay images are stored in [media/](media/) and served locally by Eleventy. Set `PATH_PREFIX` when building for a project site on GitHub Pages so image links include the repository path.
 
 Read the [style guide](style-guide.md) before drafting or editing. For lyrics, it points to the 2025 edition of _The Sacred Harp_ as the default source unless the essay calls for another version.
 

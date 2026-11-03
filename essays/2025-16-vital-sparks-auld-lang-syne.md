@@ -11,7 +11,7 @@ id: "1e7ee7a9-3c39-4457-94b0-96f492136877"
 
 162 PLENARY
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/1869b103-4360-4ead-801d-473c2d2ef022/image.png?t=1766970887)
+![]({{ '/media/1869b103-4360-4ead-801d-473c2d2ef022.png' | url }})
 
 From M.J. Grant [Auld Lang Syne: A Song and its Culture](https://www.openbookpublishers.com/books/10.11647/obp.0231)
 

@@ -15,7 +15,7 @@ NOTE: SEE [REVISED VERSION](https://vitalsparks.beehiiv.com/p/vital-sparks-isaac
 
 In the 1991 edition of *The Sacred Harp*, there is a song we do not love to sing: STAFFORD, 78. It does have a pretty little fuging tune by Daniel Read, but its words, by Isaac Watts, are problematic to many:
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/6316fb4e-8fd2-426d-b9b8-c6d76e18236b/image.png?t=1746078818)
+![]({{ '/media/6316fb4e-8fd2-426d-b9b8-c6d76e18236b.png' | url }})
 
 [The Great Synagogue of London, ca. 1810. The synagogue was destroyed in the bombing of London in World War 2](https://en.wikipedia.org/wiki/Great_Synagogue_of_London)
 

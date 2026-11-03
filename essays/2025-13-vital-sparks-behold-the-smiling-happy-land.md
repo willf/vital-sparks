@@ -11,7 +11,7 @@ id: "d4f48ba1-8976-4bec-8d84-63a67da05a0e"
 
 Secular Songs in The Sacred Harp, Part 1
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/b4bfadf4-22fe-40b8-ad5f-0ad6eed8ec9e/image.png?t=1763085158)
+![]({{ '/media/b4bfadf4-22fe-40b8-ad5f-0ad6eed8ec9e.png' | url }})
 
 [The Apotheosis of Washington](https://npg.si.edu/object/npg_NPG.77.108)
 

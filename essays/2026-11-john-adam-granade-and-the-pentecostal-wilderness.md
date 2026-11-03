@@ -11,7 +11,7 @@ id: "dcd0e64c-7a61-4e0a-bd23-9fbef902221b"
 
 Poor sinners are returning home
 
-![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80,width=1920,height=3840/uploads/asset/file/ba741e51-ff08-4f8b-a952-b53b42c30285/IMG_3254.jpeg?t=1791248843)
+![]({{ '/media/ba741e51-ff08-4f8b-a952-b53b42c30285.jpeg' | url }})
 
 ‎⁨South Bay⁩, ⁨Lake Nipigon⁩, ⁨Macdiarmid⁩, ⁨Ontario⁩, ⁨Canada⁩
 
