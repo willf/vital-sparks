@@ -11,13 +11,13 @@ id:
 
 ## Samuel Stennett
 
-There are five separate poems by Samuel Stennett, used in nine different songs, in the 2025 edition of _The Sacred Harp_.[^sacred-harp-songs] Stennett (1727–1795) was a Baptist minister from a line of Baptist ministers. His great-grandfather, Edward Stennett, led an illegally assembled house church in the reign of Charles II. His grandfather, Joseph, filled the position of pastor of a sabbatarian Baptist congregation when the previous pastor was jailed for sedition. Joseph was also a poet and a friend of Nahum Tate’s.[^joseph-stennett-source]
+There are five separate poems by Samuel Stennett, used in nine different songs, in the 2025 edition of _The Sacred Harp_.[^1] Stennett (1727–1795) was a Baptist minister from a line of Baptist ministers. His great-grandfather, Edward Stennett, led an illegally assembled house church in the reign of Charles II. His grandfather, Joseph, filled the position of pastor of a sabbatarian Baptist congregation when the previous pastor was jailed for sedition. Joseph was also a poet and a friend of Nahum Tate’s.[^2]
 
-Samuel took over his father’s role as the pastor of Little Wild Street Baptist Church in London; he was simultaneously the pastor of the same sabbatarian Baptist Church as his grandfather.[^pinners-hall] By this time, it was no longer scandalous to be a nonconforming minister, and he was “associated with some of the best society of the metropolis.”[^hatfield-biography] Like Watts, Stennett would have been welcomed in the Church of England, but held to his nonconformity. His works were eventually published in three volumes. These were mostly sermons and practical theology, but he also wrote a book-length defense of believer’s baptism. He was awarded honorary doctorates in divinity by King’s College and the University of Aberdeen.
+Samuel took over his father’s role as the pastor of Little Wild Street Baptist Church in London; he was simultaneously the pastor of the same sabbatarian Baptist Church as his grandfather.[^3] By this time, it was no longer scandalous to be a nonconforming minister, and he was “associated with some of the best society of the metropolis.”[^4] Like Watts, Stennett would have been welcomed in the Church of England, but held to his nonconformity. His works were eventually published in three volumes. These were mostly sermons and practical theology, but he also wrote a book-length defense of believer’s baptism. He was awarded honorary doctorates in divinity by King’s College and the University of Aberdeen.
 
 Here is an example of his practical theology, from an essay on “Duties of servants to masters,” a commentary on Ephesians 6:5–8, which is very Lockean in spirit:
 
-> But it is of the rights of masters and servants in a domestic capacity that we are here speaking. And these are, no doubt, the result of voluntary compact or agreement. No man has a right, because he possesses more than his neighbour, to compel him to become his servant. Nor has another a right, because of his poverty, to force his service on the rich.[^free-servants]
+> But it is of the rights of masters and servants in a domestic capacity that we are here speaking. And these are, no doubt, the result of voluntary compact or agreement. No man has a right, because he possesses more than his neighbour, to compel him to become his servant. Nor has another a right, because of his poverty, to force his service on the rich.[^5]
 
 But, of course, he is better known for his poetry. Verses of his poem “The promised land” are used in five songs in _The Sacred Harp_ (here, punctuated as in the 1824 collection of his _Works_). None of them contains the entire poem, but using just the texts in the 2025 edition, you could recreate it. Below, I’ve indicated which verses are found in which songs.
 
@@ -38,7 +38,7 @@ With milk and honey flow. [~~65~~, ~~128~~, ~~378t~~, ~~439~~, 442]
 
 All o’er those wide extended plains  
 Shines one eternal day;  
-There God the Sun[^sun-or-son] for ever reigns,  
+There God the Sun[^6] for ever reigns,  
 And scatters night away. [~~65~~, ~~128~~, ~~378t~~, ~~439~~, 442]
 
 No chilling winds, or pois’nous breath,  
@@ -201,22 +201,22 @@ Within thy blest abode.
 Among the children of thy grace,  
 The servants of my God.
 
-At Stennet’s funeral, ministers of several denominations provided remembrances and sermons.[^funeral-denominations] He was called “one of the best of men, and one of the best of ministers”[^dan-taylor-eulogy] by one of his eulogists. May he be remembered in the “blest abode / among the children of [God’s] grace.”
+At Stennet’s funeral, ministers of several denominations provided remembrances and sermons.[^7] He was called “one of the best of men, and one of the best of ministers”[^8] by one of his eulogists. May he be remembered in the “blest abode / among the children of [God’s] grace.”
 
 ---
 
-[^sacred-harp-songs]: THE CONVERTED THIEF (44), SWEET PROSPECT (65), THE PROMISED LAND (128), MESSIAH (131t), HEAVENLY PORT (378t), JORDAN (439), NEW JORDAN (442), MY LIFE AND BREATH (527), and NIDRAH (540).
+[^1]: THE CONVERTED THIEF (44), SWEET PROSPECT (65), THE PROMISED LAND (128), MESSIAH (131t), HEAVENLY PORT (378t), JORDAN (439), NEW JORDAN (442), MY LIFE AND BREATH (527), and NIDRAH (540).
 
-[^joseph-stennett-source]: Elizabeth Clarke, “Hymns, psalms, and controversy in the seventeenth century,” in _Dissenting Praise: Religious Dissent and the Hymn in England and Wales_, Isabel Rivers and David L. Wykes, editors. Oxford University Press.
+[^2]: Elizabeth Clarke, “Hymns, psalms, and controversy in the seventeenth century,” in _Dissenting Praise: Religious Dissent and the Hymn in England and Wales_, Isabel Rivers and David L. Wykes, editors. Oxford University Press.
 
-[^pinners-hall]: Watts’s congregation had met for a while in the same building as the Sabbatarian Baptist church, Pinners’ Hall. Pinners’ Hall was host to a variety of nonconforming churches over the years.
+[^3]: Watts’s congregation had met for a while in the same building as the Sabbatarian Baptist church, Pinners’ Hall. Pinners’ Hall was host to a variety of nonconforming churches over the years.
 
-[^hatfield-biography]: Edwin Hatfield, _The Poets of the Church_, 1884, quoted in the article on [Stennett](https://www.hymnologyarchive.com/samuel-stennett) in Hymnology Archive.
+[^4]: Edwin Hatfield, _The Poets of the Church_, 1884, quoted in the article on [Stennett](https://www.hymnologyarchive.com/samuel-stennett) in Hymnology Archive.
 
-[^free-servants]: Slavery was still legal in the English colonies at this point, but Stennett is talking here of “free” servants, who have voluntarily become servants of others as employees.
+[^5]: Slavery was still legal in the English colonies at this point, but Stennett is talking here of “free” servants, who have voluntarily become servants of others as employees.
 
-[^sun-or-son]: “God the _Sun_,” edited to “God the _Son_” in _The Sacred Harp_. Rippon’s _Selection_ has “God the Sun” in the online versions I checked. The _Southern Harmony_ and the 1911 James edition of _The Sacred Harp_ have “God the Son.”
+[^6]: “God the _Sun_,” edited to “God the _Son_” in _The Sacred Harp_. Rippon’s _Selection_ has “God the Sun” in the online versions I checked. The _Southern Harmony_ and the 1911 James edition of _The Sacred Harp_ have “God the Son.”
 
-[^funeral-denominations]: The same was true at Isaac Watts’s funeral. This was not an uncommon practice.
+[^7]: The same was true at Isaac Watts’s funeral. This was not an uncommon practice.
 
-[^dan-taylor-eulogy]: Dan Taylor, “A good minister of Jesus Christ.” https://archive.org/details/bim_eighteenth-century_a-good-minister-of-jesus_taylor-dan_1795, accessed October, 2026.
+[^8]: Dan Taylor, “A good minister of Jesus Christ.” https://archive.org/details/bim_eighteenth-century_a-good-minister-of-jesus_taylor-dan_1795, accessed October, 2026.
